@@ -1,0 +1,1 @@
+# YunoHost Logos and artwork
