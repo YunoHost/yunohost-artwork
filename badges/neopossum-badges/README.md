@@ -1,0 +1,1 @@
+Neopossum Emojis by [Ibly](https://gitlab.com/EeveeEuphoria), available at https://gitlab.com/EeveeEuphoria/neopossum-emojis under licence CC BY-NC-SA 4.0 (Creative Commons Attribution Non Commercial Share Alike 4.0 International).
