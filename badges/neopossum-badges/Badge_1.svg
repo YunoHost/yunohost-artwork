@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 842 596" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="100 125 685 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g id="Badges">
         <path d="M775.7,250.3L775.7,354.1C775.7,364.5 767.2,373 756.8,373L126.3,373C115.9,373 107.4,364.5 107.4,354.1L107.4,250.3C107.4,239.9 115.9,231.4 126.3,231.4L756.9,231.4C767.3,231.4 775.7,239.9 775.7,250.3Z" style="fill:rgb(251,221,202);"/>
         <path d="M756.8,376.4L126.3,376.4C114.1,376.4 104.1,366.4 104.1,354.2L104.1,250.3C104.1,238.1 114.1,228.1 126.3,228.1L756.8,228.1C769,228.1 779,238.1 779,250.3L779,354.2C779,366.3 769,376.3 756.8,376.4ZM126.3,234.7C117.7,234.7 110.7,241.7 110.7,250.3L110.7,354.2C110.7,362.7 117.8,369.7 126.3,369.7L756.8,369.7C765.3,369.7 772.3,362.7 772.4,354.1L772.4,250.3C772.4,241.8 765.4,234.8 756.8,234.7L126.3,234.7Z" style="fill:rgb(234,203,153);fill-rule:nonzero;"/>
